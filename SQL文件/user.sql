@@ -1,0 +1,9 @@
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (1, '9', 'zz', '1111', '15968868366', '1');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (11, '1', '朱喆', '2222', '11111111111', '1');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (12, '3', '3', '3333', '33333333333', '0');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (14, '5', 'sn', '5555', NULL, '2');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (15, '6', '6', '6666', '66666666666', '1');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (16, '7', 'lcy', '7777', NULL, '1');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (17, '123', 'snsn', 'zz030117zz', '15968868366', '0');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (18, '42', 'zwh', '4242', '42424242424', '0');
+INSERT INTO `user` (`ID`, `account`, `username`, `password`, `telephone`, `identity`) VALUES (19, '38', 'wjx', '3838', '33338888333', '1');

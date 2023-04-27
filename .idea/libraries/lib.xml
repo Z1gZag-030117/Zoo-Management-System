@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/动物园/lib/mysql驱动器8版本-connector-java-8.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/动物园/lib/mysql-connector-java-8.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
